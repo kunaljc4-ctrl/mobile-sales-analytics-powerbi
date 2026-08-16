@@ -47,7 +47,7 @@ The dashboard also provides monthly navigation from January to December.
 
 ## Dataset
 
-The dashboard was built using a mobile sales practice dataset provided in CSV format.
+The dashboard was built using a mobile sales practice dataset provided in xlsx format.
 
 The dataset contains information used to analyze sales, customers, products, payment methods, cities, and customer ratings.
 
