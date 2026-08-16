@@ -45,6 +45,12 @@ The dashboard also provides monthly navigation from January to December.
 - Built interactive calculations and performance metrics
 - Used data modeling and visualization to present sales insights
 
+## Dataset
+
+The dashboard was built using a mobile sales practice dataset provided in CSV format.
+
+The dataset contains information used to analyze sales, customers, products, payment methods, cities, and customer ratings.
+
 ## Dashboard Preview
 
 ![Mobile Sales Analytics Dashboard](dashboard.png)
