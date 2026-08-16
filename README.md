@@ -38,14 +38,23 @@ The dashboard also provides monthly navigation from January to December.
 - Total Customers: 988
 - Average Customer Rating: 3.69
 
+## Data & Analysis
+
+- Created a custom calendar using Power Query
+- Developed DAX measures for the majority of the dashboard KPIs
+- Built interactive calculations and performance metrics
+- Used data modeling and visualization to present sales insights
+
 ## Dashboard Preview
 
 ![Mobile Sales Analytics Dashboard](dashboard.png)
 
-## Tool Used
+## Tools Used
 
 - Microsoft Power BI
+- DAX
+- Power Query
 
 ## Project Purpose
 
-This is an individual portfolio project created to practice data analysis, data visualization, dashboard design, and extracting insights from sales data.
+This is an individual portfolio project created to practice data transformation, data modeling, DAX calculations, data visualization, dashboard design, and business analysis.
